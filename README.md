@@ -19,7 +19,7 @@ self-hosted infrastructure to algorithmic problem-solving.
 
 - C/C++ fundamentals, alongside my existing Java background
 
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiCryan&show_icons=true&theme=default&hide_border=true)
 
 ### Find me elsewhere
 
