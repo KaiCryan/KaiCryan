@@ -1,4 +1,5 @@
 ### Hi, I'm Kai 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Building+self-hosted+infrastructure;Freelance+web+developer;Learning+C%2B%2B+one+bug+at+a+time)
 
 Penultimate-year Bachelor of Information Technology student at Macquarie University
 (Software Technology major), based in Sydney, Australia. I like building things that
@@ -17,6 +18,8 @@ self-hosted infrastructure to algorithmic problem-solving.
 ### Currently learning
 
 - C/C++ fundamentals, alongside my existing Java background
+
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
 
 ### Find me elsewhere
 
