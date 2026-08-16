@@ -2,12 +2,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Building+self-hosted+infrastructure;Freelance+web+developer;Learning+C%2B%2B+one+bug+at+a+time)
 
 Penultimate-year Bachelor of Information Technology student at Macquarie University
-(Software Technology major), based in Sydney, Australia. I like building things that
-actually run in production rather than just in theory — from web development to
+(Software Technology major), based in Sydney, Australia, currently working as a
+Junior Developer at Japan Secure Solutions. I like building things that actually
+run in production rather than just in theory — from web development to
 self-hosted infrastructure to algorithmic problem-solving.
 
 ### What I'm working on
 
+- 💼 **Junior Developer @ Japan Secure Solutions** — professional software development, working across backend and frontend
 - 🖥️ **Home Lab** — a self-hosted server (Docker/ZimaOS) that runs DNS/DHCP for my
   entire home network via AdGuard Home, plus a 20-sensor Zigbee automation system
   for home climate control
@@ -19,10 +21,9 @@ self-hosted infrastructure to algorithmic problem-solving.
 
 - C/C++ fundamentals, alongside my existing Java background
 
+[![Kai's GitHub stats](https://github-stats-extended.vercel.app/api?username=KaiCryan)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)
-<!--
-[![Kai's GitHub stats](https://github-stats-extended.vercel.app/api?username=kaicryan)](https://github.com/stats-organization/github-stats-extended)
--->
+
 ### Find me elsewhere
 
 - 🌐 Portfolio: [kaicryan.dev](https://kaicryan.dev)
