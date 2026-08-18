@@ -21,7 +21,6 @@ self-hosted infrastructure to algorithmic problem-solving.
 
 - C/C++ fundamentals, alongside my existing Java background
 
-[![Kai's GitHub stats](https://github-stats-extended.vercel.app/api?username=KaiCryan)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)
 
 ### Find me elsewhere
