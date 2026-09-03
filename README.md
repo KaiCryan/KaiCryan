@@ -1,50 +1,132 @@
-### Hi, I'm Kai 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Building+self-hosted+infrastructure;Freelance+web+developer;Learning+C%2B%2B+one+bug+at+a+time)
+<div align="center">
+  <img src="./assets/header.svg" alt="Kai Cryan — Lumon Industries, Macrodata Refinement" width="100%" />
+</div>
 
-Penultimate-year Bachelor of Information Technology student at Macquarie University
-(Software Technology major), based in Sydney, Australia, currently working as a
-Junior Developer at Japan Secure Solutions. I like building things that actually
-run in production rather than just in theory — from web development to
-self-hosted infrastructure to algorithmic problem-solving.
+<p align="center">
+  <a href="https://kaicryan.dev"><img src="https://img.shields.io/badge/Portfolio-kaicryan.dev-57d9e8?style=flat-square&labelColor=0b2f3b" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kaicryan"><img src="https://img.shields.io/badge/LinkedIn-in%2Fkaicryan-57d9e8?style=flat-square&labelColor=0b2f3b&logo=linkedin&logoColor=7fe0ec" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Site-Sydney%2C%20AU-8fb7bf?style=flat-square&labelColor=0b2f3b" alt="Sydney, Australia" />
+</p>
 
-### What I'm working on
+<p align="center"><sub><i>Welcome to Lumon. The work is mysterious and important.</i></sub></p>
 
-- 💼 **Junior Developer @ Japan Secure Solutions** — backend development in Go,
-  working with PostgreSQL, Redis, Docker, and CI/CD pipelines
-- 🖥️ **Home Lab** — a self-hosted server (Docker/ZimaOS) that runs DNS/DHCP for my
-  entire home network via AdGuard Home, plus a 20-sensor Zigbee automation system
-  for home climate control
-- 💻 **Freelance web development** — building custom WordPress sites for clients,
-  from spec through to launch
-- 📚 **Algorithmic problem-solving** — daily practice, working across Java and C++
+---
 
-### Currently learning
+### ▚ PERSONNEL FILE
 
-- C/C++ fundamentals, alongside my existing Java background
+```
+LUMON INDUSTRIES  //  MACRODATA REFINEMENT DIVISION
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=KaiCryan&langs_count=4&theme=one_dark_pro)
+██      ██    ██ ███    ███  ██████  ███    ██
+██      ██    ██ ████  ████ ██    ██ ████   ██
+██      ██    ██ ██ ████ ██ ██    ██ ██ ██  ██
+██      ██    ██ ██  ██  ██ ██    ██ ██  ██ ██
+███████  ██████  ██      ██  ██████  ██   ████
 
-### Find me elsewhere
+Please enjoy each repository equally.
+```
 
-- 🌐 Portfolio: [kaicryan.dev](https://kaicryan.dev)
-- 💼 LinkedIn: [linkedin.com/in/kaicryan](https://linkedin.com/in/kaicryan)
+```
++--------------------------------------------------------------+
+|  LUMON INDUSTRIES / EMPLOYEE RECORD / FILE 0x2C              |
++--------------------------------------------------------------+
+|  NAME         Kai Cryan                                      |
+|  DESIGNATION  Software Developer, Macrodata Refinement       |
+|  SITE         Sydney, AU  (remote-eligible)                  |
+|  FOCUS        Backend / Infrastructure / Networking / Linux  |
+|  CLEARANCE    Junior Developer, Japan Secure Solutions       |
+|  STATUS       ACTIVE - innie and outie in good standing      |
++--------------------------------------------------------------+
 
-### Tech I use
+ACTIVE FILE   Cold Harbor
+REFINEMENT    ██████████████████████████░░░░░░░░░░   78%
+```
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+My work is mysterious and important. In practice that means backend services in
+**Go**, the home-lab infrastructure that keeps my house on the network, and
+**Linux** — the deploy pipeline, the DNS, the parts nobody notices until they stop.
+
+Outside the building I'm a penultimate-year **Bachelor of Information Technology**
+student at Macquarie University (Software Technology major) and a **junior developer
+at Japan Secure Solutions**. I run a self-hosted server handling DNS and DHCP for my
+whole home network, take on freelance web design, practise algorithms daily, and
+maintain **`omarchy-lumon-*`** — an eight-repo suite that themes an entire Linux
+desktop, boot to lock screen, after *Severance*.
+
+---
+
+### ▚ REFINEMENT QUEUE
+
+Work currently assigned to this terminal, sorted into bins:
+
+```
++----+------------------------------------------------------------+
+| WO | Japan Secure Solutions - junior developer                  |
+| FC | Home lab - DNS/DHCP, ~20-sensor Zigbee climate rig         |
+| DR | Freelance web design - client sites, spec to launch        |
+| MA | Algorithms - daily, C++ and Java                           |
++----+------------------------------------------------------------+
+```
+
+<sub>Bins: <b>W</b>oe &nbsp;·&nbsp; <b>F</b>rolic &nbsp;·&nbsp; <b>D</b>read &nbsp;·&nbsp; <b>M</b>alice &nbsp;—&nbsp; tame thy tempers.</sub>
+
+---
+
+### ▚ AUTHORIZED EQUIPMENT
+
+Issued to this workstation:
+
+![Go](https://img.shields.io/badge/Go-0b2f3b?style=flat-square&logo=go&logoColor=7fe0ec)
+![Java](https://img.shields.io/badge/Java-0b2f3b?style=flat-square&logo=openjdk&logoColor=7fe0ec)
+![C++](https://img.shields.io/badge/C%2B%2B-0b2f3b?style=flat-square&logo=cplusplus&logoColor=7fe0ec)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b2f3b?style=flat-square&logo=javascript&logoColor=7fe0ec)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b2f3b?style=flat-square&logo=postgresql&logoColor=7fe0ec)
+![Redis](https://img.shields.io/badge/Redis-0b2f3b?style=flat-square&logo=redis&logoColor=7fe0ec)
+![Docker](https://img.shields.io/badge/Docker-0b2f3b?style=flat-square&logo=docker&logoColor=7fe0ec)
+![Linux](https://img.shields.io/badge/Linux-0b2f3b?style=flat-square&logo=linux&logoColor=7fe0ec)
+![Git](https://img.shields.io/badge/Git-0b2f3b?style=flat-square&logo=git&logoColor=7fe0ec)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b2f3b?style=flat-square&logo=githubactions&logoColor=7fe0ec)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0b2f3b?style=flat-square&logo=homeassistant&logoColor=7fe0ec)
+
+---
+
+### ▚ QUARTERLY METRICS
+
+Refinement figures as recorded by the terminal:
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaiCryan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08222c&title_color=57d9e8&icon_color=57d9e8&text_color=8fb7bf" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiCryan&layout=compact&langs_count=8&hide_border=true&bg_color=08222c&title_color=57d9e8&text_color=8fb7bf" alt="Top languages" />
+</div>
+
+---
+
+### ▚ FILES ON RECORD
+
+Files completed and submitted to the archive. The **`omarchy-lumon-*`** set is an
+eight-repo suite re-skinning the entire [Omarchy](https://omarchy.org) Linux
+experience — boot splash, lock screen, greeting, theme, wallpapers, screensaver —
+after *Severance*.
+
+| FILE | CONTENTS |
+| --- | --- |
+| [**omarchy-lumon-theme**](https://github.com/KaiCryan/omarchy-lumon-theme) | Lumon / Severance look-and-feel for Omarchy — fastfetch, branding, palette |
+| [**omarchy-lumon-wallpapers**](https://github.com/KaiCryan/omarchy-lumon-wallpapers) | ASCII character portraits + brand wallpaper set with an hourly cycler |
+| [**omarchy-lumon-screensaver**](https://github.com/KaiCryan/omarchy-lumon-screensaver) | Capped-FPS TTY effects and an ambient scene reel |
+| [**omarchy-desktop-quote**](https://github.com/KaiCryan/omarchy-desktop-quote) | Variety-style rotating quote overlay for the Omarchy desktop (QML) |
+| [**LeetCode**](https://github.com/KaiCryan/LeetCode) | Daily algorithmic practice, C++ and Java |
+
+---
+
+### ▚ OUTIE CORRESPONDENCE
+
+The outie may be reached through approved channels:
+
+- **Portfolio** — [kaicryan.dev](https://kaicryan.dev)
+- **LinkedIn** — [linkedin.com/in/kaicryan](https://linkedin.com/in/kaicryan)
+
+---
+
+<div align="center">
+  <sub><code>tame thy tempers</code> &nbsp;·&nbsp; <code>the work is mysterious and important</code> &nbsp;·&nbsp; <code>praise Kier</code></sub>
+</div>
