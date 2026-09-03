@@ -2,29 +2,11 @@
   <img src="./assets/header.svg" alt="Kai Cryan — Lumon Industries, Macrodata Refinement" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://kaicryan.dev"><img src="https://img.shields.io/badge/Portfolio-kaicryan.dev-57d9e8?style=flat-square&labelColor=0b2f3b" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kaicryan"><img src="https://img.shields.io/badge/LinkedIn-in%2Fkaicryan-57d9e8?style=flat-square&labelColor=0b2f3b&logo=linkedin&logoColor=7fe0ec" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Site-Sydney%2C%20AU-8fb7bf?style=flat-square&labelColor=0b2f3b" alt="Sydney, Australia" />
-</p>
-
-<p align="center"><sub><i>Welcome to Lumon. The work is mysterious and important.</i></sub></p>
+<p align="center"><sub><i>The work is mysterious and important.</i></sub></p>
 
 ---
 
 ### ▚ PERSONNEL FILE
-
-```
-LUMON INDUSTRIES  //  MACRODATA REFINEMENT DIVISION
-
-██      ██    ██ ███    ███  ██████  ███    ██
-██      ██    ██ ████  ████ ██    ██ ████   ██
-██      ██    ██ ██ ████ ██ ██    ██ ██ ██  ██
-██      ██    ██ ██  ██  ██ ██    ██ ██  ██ ██
-███████  ██████  ██      ██  ██████  ██   ████
-
-Please enjoy each repository equally.
-```
 
 ```
 +--------------------------------------------------------------+
@@ -35,40 +17,30 @@ Please enjoy each repository equally.
 |  SITE         Sydney, AU  (remote-eligible)                  |
 |  FOCUS        Backend / Infrastructure / Networking / Linux  |
 |  CLEARANCE    Junior Developer, Japan Secure Solutions       |
-|  STATUS       ACTIVE - innie and outie in good standing      |
+|  STATUS       ACTIVE  -  innie and outie in good standing    |
 +--------------------------------------------------------------+
-
-ACTIVE FILE   Cold Harbor
-REFINEMENT    ██████████████████████████░░░░░░░░░░   78%
 ```
 
 My work is mysterious and important. In practice that means backend services in
-**Go**, the home-lab infrastructure that keeps my house on the network, and
-**Linux** — the deploy pipeline, the DNS, the parts nobody notices until they stop.
-
-Outside the building I'm a penultimate-year **Bachelor of Information Technology**
-student at Macquarie University (Software Technology major) and a **junior developer
-at Japan Secure Solutions**. I run a self-hosted server handling DNS and DHCP for my
-whole home network, take on freelance web design, practise algorithms daily, and
-maintain **`omarchy-lumon-*`** — an eight-repo suite that themes an entire Linux
-desktop, boot to lock screen, after *Severance*.
+**Go**, self-hosted infrastructure, networking, and **Linux** — the parts that
+stay invisible until they break. Outside the building I'm a penultimate-year
+**Bachelor of Information Technology** student at Macquarie University
+(Software Technology major).
 
 ---
 
 ### ▚ REFINEMENT QUEUE
 
-Work currently assigned to this terminal, sorted into bins:
+Work currently on the terminal:
 
 ```
-+----+------------------------------------------------------------+
-| WO | Japan Secure Solutions - junior developer                  |
-| FC | Home lab - DNS/DHCP, ~20-sensor Zigbee climate rig         |
-| DR | Freelance web design - client sites, spec to launch        |
-| MA | Algorithms - daily, C++ and Java                           |
-+----+------------------------------------------------------------+
++----------------------------------------------------------------------+
+|  Japan Secure Solutions ... junior developer                         |
+|  Home lab ................. self-hosted DNS / DHCP, Zigbee sensors    |
+|  Freelance ................ web design, spec to launch               |
+|  Algorithms ............... daily practice, C++ and Java             |
++----------------------------------------------------------------------+
 ```
-
-<sub>Bins: <b>W</b>oe &nbsp;·&nbsp; <b>F</b>rolic &nbsp;·&nbsp; <b>D</b>read &nbsp;·&nbsp; <b>M</b>alice &nbsp;—&nbsp; tame thy tempers.</sub>
 
 ---
 
@@ -90,31 +62,20 @@ Issued to this workstation:
 
 ---
 
-### ▚ QUARTERLY METRICS
-
-Refinement figures as recorded by the terminal:
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaiCryan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08222c&title_color=57d9e8&icon_color=57d9e8&text_color=8fb7bf" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiCryan&layout=compact&langs_count=8&hide_border=true&bg_color=08222c&title_color=57d9e8&text_color=8fb7bf" alt="Top languages" />
-</div>
-
----
-
 ### ▚ FILES ON RECORD
 
-Files completed and submitted to the archive. The **`omarchy-lumon-*`** set is an
-eight-repo suite re-skinning the entire [Omarchy](https://omarchy.org) Linux
-experience — boot splash, lock screen, greeting, theme, wallpapers, screensaver —
-after *Severance*.
+**`omarchy-lumon-*`** — an eight-repo suite that re-skins the entire
+[Omarchy](https://omarchy.org) Linux experience, boot splash to lock screen,
+after *Severance*. Selected files:
 
-| FILE | CONTENTS |
+| File | Contents |
 | --- | --- |
-| [**omarchy-lumon-theme**](https://github.com/KaiCryan/omarchy-lumon-theme) | Lumon / Severance look-and-feel for Omarchy — fastfetch, branding, palette |
-| [**omarchy-lumon-wallpapers**](https://github.com/KaiCryan/omarchy-lumon-wallpapers) | ASCII character portraits + brand wallpaper set with an hourly cycler |
-| [**omarchy-lumon-screensaver**](https://github.com/KaiCryan/omarchy-lumon-screensaver) | Capped-FPS TTY effects and an ambient scene reel |
-| [**omarchy-desktop-quote**](https://github.com/KaiCryan/omarchy-desktop-quote) | Variety-style rotating quote overlay for the Omarchy desktop (QML) |
-| [**LeetCode**](https://github.com/KaiCryan/LeetCode) | Daily algorithmic practice, C++ and Java |
+| [omarchy-lumon-theme](https://github.com/KaiCryan/omarchy-lumon-theme) | Look-and-feel, fastfetch and branding for the whole desktop |
+| [omarchy-lumon-wallpapers](https://github.com/KaiCryan/omarchy-lumon-wallpapers) | Generated ASCII character portraits + brand set, hourly cycler |
+| [omarchy-lumon-screensaver](https://github.com/KaiCryan/omarchy-lumon-screensaver) | Capped-FPS TTY effects and an ambient scene reel |
+| [omarchy-desktop-quote](https://github.com/KaiCryan/omarchy-desktop-quote) | Rotating quote overlay for the Omarchy desktop (QML) |
+
+<sub>Also on file: <a href="https://github.com/KaiCryan/LeetCode">LeetCode</a> — daily algorithm practice · full suite and more in the pins above.</sub>
 
 ---
 
