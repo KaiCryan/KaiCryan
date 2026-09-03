@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" fill="none" role="img" aria-label="Kai Cryan — Lumon Industries, Macrodata Refinement">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0b141b"/>
-      <stop offset="0.55" stop-color="#091015"/>
-      <stop offset="1" stop-color="#060b0f"/>
+      <stop offset="0" stop-color="#2c4c6b"/>
+      <stop offset="0.55" stop-color="#244057"/>
+      <stop offset="1" stop-color="#1e3648"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.30" cy="0.44" r="0.95">
-      <stop offset="0" stop-color="#1a3038" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#060b0f" stop-opacity="0"/>
+      <stop offset="0" stop-color="#3d6b8f" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#1e3648" stop-opacity="0"/>
     </radialGradient>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="1" y="0" fill="#a8c4cc" opacity="0.028"/>
+      <rect width="4" height="1" y="0" fill="#cfe3f2" opacity="0.03"/>
     </pattern>
     <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="0.5"/>
@@ -27,10 +27,10 @@
   <rect x="1" y="1" width="878" height="258" rx="10" fill="url(#bg)"/>
   <rect x="1" y="1" width="878" height="258" rx="10" fill="url(#glow)"/>
   <rect x="1" y="1" width="878" height="258" rx="10" fill="url(#scan)"/>
-  <rect x="1.5" y="1.5" width="877" height="257" rx="9.5" fill="none" stroke="#25414c" stroke-width="1"/>
+  <rect x="1.5" y="1.5" width="877" height="257" rx="9.5" fill="none" stroke="#34506b" stroke-width="1"/>
 
   <!-- corner brackets -->
-  <g stroke="#6d94a1" stroke-width="2" opacity="0.7" fill="none">
+  <g stroke="#6fa4c9" stroke-width="2" opacity="0.8" fill="none">
     <path d="M18 40 V18 H40"/>
     <path d="M862 40 V18 H840"/>
     <path d="M18 220 V242 H40"/>
@@ -39,47 +39,47 @@
 
   <!-- top row -->
   <g class="mono">
-    <text x="40" y="46" class="kick" font-size="13" fill="#7ea3b0">LUMON<tspan fill="#4c6b75">  ·  INDUSTRIES</tspan></text>
-    <text x="840" y="46" class="tiny" font-size="12" fill="#4c6b75" text-anchor="end">MACRODATA REFINEMENT</text>
+    <text x="40" y="46" class="kick" font-size="13" fill="#6fb8e3">LUMON<tspan fill="#5a7f99">  ·  INDUSTRIES</tspan></text>
+    <text x="840" y="46" class="tiny" font-size="12" fill="#5a7f99" text-anchor="end">MACRODATA REFINEMENT</text>
   </g>
-  <line x1="40" y1="58" x2="840" y2="58" stroke="#1b2f38" stroke-width="1"/>
+  <line x1="40" y1="58" x2="840" y2="58" stroke="#2a4257" stroke-width="1"/>
 
   <!-- name block -->
   <g class="mono">
-    <text x="40" y="118" class="name" font-size="40" fill="#cdd9dd" filter="url(#soft)">KAI CRYAN</text>
-    <text x="42" y="146" class="tiny" font-size="13" fill="#7ea3b0">SOFTWARE DEVELOPER<tspan fill="#4c6b75">  ·  SYDNEY, AU</tspan></text>
+    <text x="40" y="118" class="name" font-size="40" fill="#eef4fb" filter="url(#soft)">KAI CRYAN</text>
+    <text x="42" y="146" class="tiny" font-size="13" fill="#6fb8e3">SOFTWARE DEVELOPER<tspan fill="#5a7f99">  ·  SYDNEY, AU</tspan></text>
   </g>
 
   <!-- prompt line with blinking cursor -->
   <g class="mono">
-    <text x="42" y="184" font-size="14" fill="#6d8a94">&gt; please enjoy each repository equally<tspan dx="3" fill="#7ea3b0">&#x258B;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+    <text x="42" y="184" font-size="14" fill="#9db9cd">&gt; please enjoy each repository equally<tspan dx="3" fill="#6fb8e3">&#x258B;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
   </g>
 
   <!-- refinement meter -->
   <g class="mono">
-    <text x="42" y="222" class="tiny" font-size="11" fill="#4c6b75">REFINEMENT</text>
-    <rect x="132" y="212" width="300" height="8" rx="4" fill="#0f1c22" stroke="#25414c" stroke-width="1"/>
-    <rect x="133" y="213" width="60" height="6" rx="3" fill="#6d94a1">
+    <text x="42" y="222" class="tiny" font-size="11" fill="#5a7f99">REFINEMENT</text>
+    <rect x="132" y="212" width="300" height="8" rx="4" fill="#16273a" stroke="#34506b" stroke-width="1"/>
+    <rect x="133" y="213" width="60" height="6" rx="3" fill="#4d9ed3">
       <animate attributeName="width" values="40;250;180;272;210;250" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.55;0.8;0.65;0.8;0.6;0.7" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.9;0.7;0.9;0.65;0.8" dur="9s" repeatCount="indefinite"/>
     </rect>
-    <text x="446" y="222" class="tiny" font-size="11" fill="#6d8a94">0x2C</text>
+    <text x="446" y="222" class="tiny" font-size="11" fill="#9db9cd">0x2C</text>
   </g>
 
   <!-- drifting scary numbers cluster (right) -->
-  <g class="mono" font-size="15" fill="#3a5a64">
-    <rect x="590" y="74" width="252" height="120" rx="6" fill="#0a141a" stroke="#25414c" stroke-width="1"/>
+  <g class="mono" font-size="15" fill="#5486a3">
+    <rect x="590" y="74" width="252" height="120" rx="6" fill="#294864" stroke="#3d6183" stroke-width="1"/>
     <clipPath id="clip"><rect x="590" y="74" width="252" height="120" rx="6"/></clipPath>
     <g clip-path="url(#clip)">
       <g>
         <text x="606" y="96">4 9 1 7 3 0 8 2</text>
-        <text x="606" y="120" fill="#5a808a">2 6 5 <tspan fill="#9fb8bf">9 9 4</tspan> 1 0 7</text>
+        <text x="606" y="120" fill="#6a93ad">2 6 5 <tspan fill="#cfe3f2">9 9 4</tspan> 1 0 7</text>
         <text x="606" y="144">8 3 1 5 6 2 4 9 0</text>
-        <text x="606" y="168" fill="#2c464e">1 7 2 4 8 3 5 1 9 6</text>
+        <text x="606" y="168" fill="#35566e">1 7 2 4 8 3 5 1 9 6</text>
         <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 2; 0 -4; 0 0" dur="12s" repeatCount="indefinite"/>
       </g>
-      <text x="606" y="192" fill="#2c464e">0 4 2 8 1 9 3 7 5</text>
+      <text x="606" y="192" fill="#35566e">0 4 2 8 1 9 3 7 5</text>
     </g>
-    <text x="716" y="66" class="tiny" font-size="10" fill="#3f5a63" text-anchor="middle">DATA · SCARY · COMPLETE</text>
+    <text x="716" y="66" class="tiny" font-size="10" fill="#4a708a" text-anchor="middle">DATA · SCARY · COMPLETE</text>
   </g>
 </svg>

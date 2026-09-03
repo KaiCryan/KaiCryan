@@ -2,6 +2,13 @@
   <img src="./assets/header.svg" alt="Kai Cryan — Lumon Industries, Macrodata Refinement" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://kaicryan.dev"><img src="https://img.shields.io/badge/Portfolio-kaicryan.dev-6fb8e3?style=flat-square&labelColor=1b2d40" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/kaicryan"><img src="https://img.shields.io/badge/LinkedIn-in%2Fkaicryan-6fb8e3?style=flat-square&labelColor=1b2d40&logo=linkedin&logoColor=cfe3f2" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:kaithecryan@gmail.com"><img src="https://img.shields.io/badge/Email-kaithecryan%40gmail.com-6fb8e3?style=flat-square&labelColor=1b2d40&logo=gmail&logoColor=cfe3f2" alt="Email" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/Sydney%2C%20AU-1b2d40?style=flat-square" alt="Sydney, Australia" />
+</p>
+
 <p align="center"><sub><i>The work is mysterious and important.</i></sub></p>
 
 ---
@@ -36,7 +43,7 @@ Work currently on the terminal:
 ```
 +----------------------------------------------------------------------+
 |  Japan Secure Solutions ... junior developer                         |
-|  Home lab ................. self-hosted DNS / DHCP, Zigbee sensors    |
+|  Home lab ................. self-hosted DNS / DHCP, Zigbee sensors   |
 |  Freelance ................ web design, spec to launch               |
 |  Algorithms ............... daily practice, C++ and Java             |
 +----------------------------------------------------------------------+
@@ -48,17 +55,17 @@ Work currently on the terminal:
 
 Issued to this workstation:
 
-![Go](https://img.shields.io/badge/Go-0b2f3b?style=flat-square&logo=go&logoColor=7fe0ec)
-![Java](https://img.shields.io/badge/Java-0b2f3b?style=flat-square&logo=openjdk&logoColor=7fe0ec)
-![C++](https://img.shields.io/badge/C%2B%2B-0b2f3b?style=flat-square&logo=cplusplus&logoColor=7fe0ec)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b2f3b?style=flat-square&logo=javascript&logoColor=7fe0ec)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b2f3b?style=flat-square&logo=postgresql&logoColor=7fe0ec)
-![Redis](https://img.shields.io/badge/Redis-0b2f3b?style=flat-square&logo=redis&logoColor=7fe0ec)
-![Docker](https://img.shields.io/badge/Docker-0b2f3b?style=flat-square&logo=docker&logoColor=7fe0ec)
-![Linux](https://img.shields.io/badge/Linux-0b2f3b?style=flat-square&logo=linux&logoColor=7fe0ec)
-![Git](https://img.shields.io/badge/Git-0b2f3b?style=flat-square&logo=git&logoColor=7fe0ec)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b2f3b?style=flat-square&logo=githubactions&logoColor=7fe0ec)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0b2f3b?style=flat-square&logo=homeassistant&logoColor=7fe0ec)
+![Go](https://img.shields.io/badge/Go-1b2d40?style=flat-square&logo=go&logoColor=6fb8e3)
+![Java](https://img.shields.io/badge/Java-1b2d40?style=flat-square&logo=openjdk&logoColor=6fb8e3)
+![C++](https://img.shields.io/badge/C%2B%2B-1b2d40?style=flat-square&logo=cplusplus&logoColor=6fb8e3)
+![JavaScript](https://img.shields.io/badge/JavaScript-1b2d40?style=flat-square&logo=javascript&logoColor=6fb8e3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b2d40?style=flat-square&logo=postgresql&logoColor=6fb8e3)
+![Redis](https://img.shields.io/badge/Redis-1b2d40?style=flat-square&logo=redis&logoColor=6fb8e3)
+![Docker](https://img.shields.io/badge/Docker-1b2d40?style=flat-square&logo=docker&logoColor=6fb8e3)
+![Linux](https://img.shields.io/badge/Linux-1b2d40?style=flat-square&logo=linux&logoColor=6fb8e3)
+![Git](https://img.shields.io/badge/Git-1b2d40?style=flat-square&logo=git&logoColor=6fb8e3)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b2d40?style=flat-square&logo=githubactions&logoColor=6fb8e3)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-1b2d40?style=flat-square&logo=homeassistant&logoColor=6fb8e3)
 
 ---
 
@@ -85,8 +92,47 @@ The outie may be reached through approved channels:
 
 - **Portfolio** — [kaicryan.dev](https://kaicryan.dev)
 - **LinkedIn** — [linkedin.com/in/kaicryan](https://linkedin.com/in/kaicryan)
+- **Email** — [kaithecryan@gmail.com](mailto:kaithecryan@gmail.com)
 
 ---
+
+```
+                    ......::::......
+                .......          .......
+            ..:..                      ..:..
+          .:..             ..             ..:.
+        .:..        .-+*##%%%%##*+-.        ..:.
+      .:..        -*%@@@@@@@@@@@@@@%*-        ..:.
+     .:.        -#@@@%%#*******##%%@@@#-        .:.
+    ::.      -:=@@%*=-:...  .....:-=*%@@=:-      .::
+   :..      :%*%%=:.      ..........:-+%%*%:      ..:
+  ...       =@@*:.......      ....:::..-#@@=       ...
+ .:.        =@*:.:-========:.-=====+==-:-#@=        .:.
+ :..        -@=..:--=+*+-:...:--+*+==--::+@-        ..:
+.:.          ##:....:*#*.   .  :*#*:.:::-##          .:.
+...          :+-......  ...--......:::::=+:          ...
+:..          .=-:::........==....:::::::-=.          ..:
+:..           -=::::.:::::-*+-::::::::--=-           ..:
+:..            --::-+**##########**+---==            ..:
+.:.             --:+%#%%########%%#%*-==             .:.
+ :.              -=#%%@%%%%%%%%%%@%%#=-              .:
+ ...              =##%@%%%%@@%%%%@%##=              ...
+  :..             -%##@@%%%@@%%%@@##%-             ..:
+  .:.             .%@%@@@@@@@@@@@@%@%.             .:.
+   .:.             :#@@@@@@@@@@@@@@#:             .:.
+    .:.             :*@@@@@@@@@@@@*:             .:.
+      ::.      .-*#@@@@@@@@@@@@@@@@@@#*-.      .::
+       .:..  -*@@@@@@@@@@@@@@@@@@@@@@@@@@*-  ..:.
+         ...+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+...
+          -+-=*%@@@@@@@@@@@@@@@@@@@@@@@@%*=-+-
+         .@@@#=-=+#%@@@@@@@@@@@@@@@@%#+=-=#@@@.
+         *@@@@@@%*+====+********+====+*%@@@@@@*
+        .@@@@@@@@@@@@%##***++***##%@@@@@@@@@@@@.
+        -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-
+
+                    K I E R   E A G A N
+              founder  ·  the work is eternal
+```
 
 <div align="center">
   <sub><code>tame thy tempers</code> &nbsp;·&nbsp; <code>the work is mysterious and important</code> &nbsp;·&nbsp; <code>praise Kier</code></sub>
