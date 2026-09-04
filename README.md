@@ -11,9 +11,7 @@
 
 <p align="center"><sub><i>The work is mysterious and important.</i></sub></p>
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING C ▸ SEVERED FLOOR</code></sub></p>
+<p align="center"><code>─────────────────────────── GROUND FLOOR · LOBBY ───────────────────────────</code></p>
 
 ### ▚ PERSONNEL FILE
 
@@ -36,9 +34,7 @@ stay invisible until they break. Outside the building I'm a penultimate-year
 **Bachelor of Information Technology** student at Macquarie University
 (Software Technology major).
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING C ▸ MDR</code></sub></p>
+<p align="center"><code>───────────────────── LEVEL B1 · MACRODATA REFINEMENT ──────────────────────</code></p>
 
 ### ▚ REFINEMENT QUEUE
 
@@ -53,9 +49,7 @@ Work currently on the terminal:
 +----------------------------------------------------------------------+
 ```
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING B ▸ O&amp;D</code></sub></p>
+<p align="center"><code>────────────────────── LEVEL B2 · OPTICS &amp; DESIGN ──────────────────────</code></p>
 
 ### ▚ AUTHORIZED EQUIPMENT
 
@@ -73,9 +67,7 @@ Issued to this workstation:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b2d40?style=flat-square&logo=githubactions&logoColor=6fb8e3)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-1b2d40?style=flat-square&logo=homeassistant&logoColor=6fb8e3)
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ SUB-LEVEL 1 ▸ ARCHIVES</code></sub></p>
+<p align="center"><code>─────────────────────────── LEVEL B3 · ARCHIVES ────────────────────────────</code></p>
 
 ### ▚ FILES ON RECORD
 
@@ -92,9 +84,7 @@ after *Severance*. Selected files:
 
 <sub>Also on file: <a href="https://github.com/KaiCryan/LeetCode">LeetCode</a> — daily algorithm practice · full suite and more in the pins above.</sub>
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ PERPETUITY WING</code></sub></p>
+<p align="center"><code>──────────────────────── LEVEL B4 · PERPETUITY WING ────────────────────────</code></p>
 
 ### ▚ OUTIE CORRESPONDENCE
 
@@ -104,9 +94,7 @@ The outie may be reached through approved channels:
 - **LinkedIn** — [linkedin.com/in/kaicryan](https://linkedin.com/in/kaicryan)
 - **Email** — [kaithecryan@gmail.com](mailto:kaithecryan@gmail.com)
 
----
-
-<p align="center"><sub><code>LUMON INDUSTRIES ▸ GROUND FLOOR ▸ ELEVATOR</code></sub></p>
+<p align="center"><code>────────────────────────────── SEVERED FLOOR ───────────────────────────────</code></p>
 
 <div align="center">
   <img src="./assets/kier.svg" alt="Kier Eagan" width="460" />
