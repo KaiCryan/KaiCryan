@@ -96,20 +96,8 @@ The outie may be reached through approved channels:
 
 ---
 
-```
-      ______
-    .'  ..  '.
-   / (o)  (o) \
-   |    /\    |
-    \  (__)  /
-    / .----. \
-   | /WWWWWW\ |
-   | |WWWWWW| |
-    \ \WWWW/ /
-     '-.__.-'
-      KIER EAGAN
-```
-
 <div align="center">
+  <img src="./assets/kier.svg" alt="Kier Eagan" width="460" />
+  <br />
   <sub><code>tame thy tempers</code> &nbsp;·&nbsp; <code>the work is mysterious and important</code> &nbsp;·&nbsp; <code>praise Kier</code></sub>
 </div>
