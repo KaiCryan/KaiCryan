@@ -11,6 +11,8 @@
 
 <p align="center"><sub><i>The work is mysterious and important.</i></sub></p>
 
+<div align="center"><sub><code>◂──  LUMON INDUSTRIES · SEVERED FLOOR · ENTRANCE  ──▸</code></sub></div>
+
 ---
 
 ### ▚ PERSONNEL FILE
@@ -34,6 +36,8 @@ stay invisible until they break. Outside the building I'm a penultimate-year
 **Bachelor of Information Technology** student at Macquarie University
 (Software Technology major).
 
+<div align="center"><sub><code>◂──  MDR · BIN ROOM · REFINEMENT  ──▸</code></sub></div>
+
 ---
 
 ### ▚ REFINEMENT QUEUE
@@ -48,6 +52,8 @@ Work currently on the terminal:
 |  Algorithms ............... daily practice, C++ and Java             |
 +----------------------------------------------------------------------+
 ```
+
+<div align="center"><sub><code>◂──  O&amp;D · SUPPLY CLOSET · EQUIPMENT  ──▸</code></sub></div>
 
 ---
 
@@ -67,6 +73,27 @@ Issued to this workstation:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b2d40?style=flat-square&logo=githubactions&logoColor=6fb8e3)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-1b2d40?style=flat-square&logo=homeassistant&logoColor=6fb8e3)
 
+<div align="center"><sub><code>◂──  WELLNESS CENTER · QUARTERLY REVIEW · TEMPERS  ──▸</code></sub></div>
+
+---
+
+### ▚ TEMPER PROFILE
+
+Quarterly reading, per the four-percent model:
+
+```
++----------------------------------------------------------------------+
+|  WOE ..................... production incidents, unresolved          |
+|  FROLIC ................... side-project repos, uncommitted          |
+|  DREAD ..................... monday morning deploys, queued          |
+|  MALICE ................ opinions on tabs vs. spaces, filed          |
++----------------------------------------------------------------------+
+```
+
+<sub>Balance maintained. Overages are none of this README's business.</sub>
+
+<div align="center"><sub><code>◂──  ARCHIVES · SUB-LEVEL 1 · RECORDS  ──▸</code></sub></div>
+
 ---
 
 ### ▚ FILES ON RECORD
@@ -84,6 +111,8 @@ after *Severance*. Selected files:
 
 <sub>Also on file: <a href="https://github.com/KaiCryan/LeetCode">LeetCode</a> — daily algorithm practice · full suite and more in the pins above.</sub>
 
+<div align="center"><sub><code>◂──  PERPETUITY WING · THRESHOLD · EXIT  ──▸</code></sub></div>
+
 ---
 
 ### ▚ OUTIE CORRESPONDENCE
@@ -94,10 +123,17 @@ The outie may be reached through approved channels:
 - **LinkedIn** — [linkedin.com/in/kaicryan](https://linkedin.com/in/kaicryan)
 - **Email** — [kaithecryan@gmail.com](mailto:kaithecryan@gmail.com)
 
+<div align="center"><sub><code>◂──  ELEVATOR · GROUND FLOOR · DEPARTURE  ──▸</code></sub></div>
+
 ---
 
 <div align="center">
   <img src="./assets/kier.svg" alt="Kier Eagan" width="460" />
   <br />
-  <sub><code>tame thy tempers</code> &nbsp;·&nbsp; <code>the work is mysterious and important</code> &nbsp;·&nbsp; <code>praise Kier</code></sub>
+  <sub>
+    <code>good, better, best — never let it rest</code><br/>
+    <code>the work is mysterious and important</code><br/>
+    <code>tame thy tempers</code><br/>
+    <code>praise Kier</code>
+  </sub>
 </div>
