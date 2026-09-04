@@ -13,11 +13,7 @@
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  WING C · SEVERED FLOOR   ·   NEXT: PERSONNEL FILE                  |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING C ▸ SEVERED FLOOR</code></sub></p>
 
 ### ▚ PERSONNEL FILE
 
@@ -42,11 +38,7 @@ stay invisible until they break. Outside the building I'm a penultimate-year
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  WING C · MDR   ·   NEXT: REFINEMENT QUEUE                          |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING C ▸ MDR</code></sub></p>
 
 ### ▚ REFINEMENT QUEUE
 
@@ -63,11 +55,7 @@ Work currently on the terminal:
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  WING B · O&D   ·   NEXT: AUTHORIZED EQUIPMENT                  |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ WING B ▸ O&amp;D</code></sub></p>
 
 ### ▚ AUTHORIZED EQUIPMENT
 
@@ -87,11 +75,7 @@ Issued to this workstation:
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  SUB-LEVEL 1 · ARCHIVES   ·   NEXT: FILES ON RECORD                 |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ SUB-LEVEL 1 ▸ ARCHIVES</code></sub></p>
 
 ### ▚ FILES ON RECORD
 
@@ -110,11 +94,7 @@ after *Severance*. Selected files:
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  PERPETUITY WING   ·   NEXT: OUTIE CORRESPONDENCE                   |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ PERPETUITY WING</code></sub></p>
 
 ### ▚ OUTIE CORRESPONDENCE
 
@@ -126,11 +106,7 @@ The outie may be reached through approved channels:
 
 ---
 
-```
-+------------------------------------------------------------------------+
-|  ▸  GROUND FLOOR · ELEVATOR   ·   NEXT: DEPARTURE                      |
-+------------------------------------------------------------------------+
-```
+<p align="center"><sub><code>LUMON INDUSTRIES ▸ GROUND FLOOR ▸ ELEVATOR</code></sub></p>
 
 <div align="center">
   <img src="./assets/kier.svg" alt="Kier Eagan" width="460" />
