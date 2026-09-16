@@ -69,6 +69,29 @@ Issued to this workstation:
 
 ---
 
+### ▚ FIELD COMMENDATION
+
+```
++------------------------------------------------------------------------+
+|  LUMON INDUSTRIES / OUTIE ACTIVITY / COMMENDATION 0x51                 |
++------------------------------------------------------------------------+
+|  PROJECT      RebootLoop                                               |
+|  RESULT       5th of 24 teams, Pitch for the Planet 2026 (MQ)          |
+|  FUNCTION     Privacy-first routing for device repair, reuse, donation |
+|               and recycling, with secure data-preparation guidance     |
++------------------------------------------------------------------------+
+```
+
+Built with two teammates for Macquarie's sustainability pitch competition:
+answer a few non-identifying questions about a device and RebootLoop
+recommends its safest next life, without ever asking for an account, a file
+upload, or a serial number.
+
+**[Live demo](https://rebootloopmq.github.io/RebootLoop/)** ·
+**[Write-up](https://github.com/RebootLoopMQ/RebootLoop)**
+
+---
+
 ### ▚ FILES ON RECORD
 
 **`omarchy-lumon-*`** — an eight-repo suite that re-skins the entire
