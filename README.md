@@ -92,23 +92,6 @@ upload, or a serial number.
 
 ---
 
-### ▚ FILES ON RECORD
-
-**`omarchy-lumon-*`** — an eight-repo suite that re-skins the entire
-[Omarchy](https://omarchy.org) Linux experience, boot splash to lock screen,
-after *Severance*. Selected files:
-
-| File | Contents |
-| --- | --- |
-| [omarchy-lumon-theme](https://github.com/KaiCryan/omarchy-lumon-theme) | Look-and-feel, fastfetch and branding for the whole desktop |
-| [omarchy-lumon-wallpapers](https://github.com/KaiCryan/omarchy-lumon-wallpapers) | Generated ASCII character portraits + brand set, hourly cycler |
-| [omarchy-lumon-screensaver](https://github.com/KaiCryan/omarchy-lumon-screensaver) | Capped-FPS TTY effects and an ambient scene reel |
-| [omarchy-desktop-quote](https://github.com/KaiCryan/omarchy-desktop-quote) | Rotating quote overlay for the Omarchy desktop (QML) |
-
-<sub>Also on file: <a href="https://github.com/KaiCryan/LeetCode">LeetCode</a> — daily algorithm practice · full suite and more in the pins above.</sub>
-
----
-
 ### ▚ OUTIE CORRESPONDENCE
 
 The outie may be reached through approved channels:
