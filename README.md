@@ -13,21 +13,6 @@
 
 ---
 
-### ▚ PERSONNEL FILE
-
-```
-+--------------------------------------------------------------+
-|  LUMON INDUSTRIES / EMPLOYEE RECORD / FILE 0x2C              |
-+--------------------------------------------------------------+
-|  NAME         Kai Cryan                                      |
-|  DESIGNATION  Software Developer, Macrodata Refinement       |
-|  SITE         Sydney, AU  (remote-eligible)                  |
-|  FOCUS        Backend / Infrastructure / Networking / Linux  |
-|  CLEARANCE    Junior Developer, Japan Secure Solutions       |
-|  STATUS       ACTIVE  -  innie and outie in good standing    |
-+--------------------------------------------------------------+
-```
-
 My work is mysterious and important. In practice that means backend services in
 **Go**, self-hosted infrastructure, networking, and **Linux** — the parts that
 stay invisible until they break. Outside the building I'm a penultimate-year
@@ -69,7 +54,7 @@ Issued to this workstation:
 
 ---
 
-### ▚ FIELD COMMENDATION
+### ▚ FIELD COMMENDATIONS
 
 ```
 +------------------------------------------------------------------------+
@@ -89,6 +74,38 @@ upload, or a serial number.
 
 **[Live demo](https://rebootloopmq.github.io/RebootLoop/)** ·
 **[Write-up](https://github.com/RebootLoopMQ/RebootLoop)**
+
+```
++------------------------------------------------------------------------+
+|  LUMON INDUSTRIES / OUTIE ACTIVITY / COMMENDATION 0x52                 |
++------------------------------------------------------------------------+
+|  PROJECT      CircularCut                                              |
+|  EVENT        Climate Hack-tion 2026                                   |
+|  FUNCTION     Timber offcut marketplace connecting makers with surplus |
+|               material for reuse, with cutting feasibility checks      |
++------------------------------------------------------------------------+
+```
+
+Primary contributor (79 commits) on EarthSync — CircularCut. Led product design and prototype development for a public hackathon project aligned with COP31 Green Industrialisation and Zero Waste priorities.
+
+**[Repository](https://github.com/climate-hacktion-2026/circularcut)** ·
+**[Interactive demo](https://offcut-to-order-circularcut-demo.earthsync-circularcut-demo.workers.dev/app)**
+
+---
+
+### ▚ INCIDENT REPORT
+
+```
++------------------------------------------------------------------------+
+|  LUMON INDUSTRIES / OUTIE ACTIVITY / INCIDENT 0x17                     |
++------------------------------------------------------------------------+
+|  EVENT        Hack Mac 2026                                            |
+|  RESULT       7th overall (51 teams) · 3rd in Undergraduate category   |
+|  FUNCTION     CTF competition — Macquarie University Cyber Security Hub|
++------------------------------------------------------------------------+
+```
+
+First CTF event. Competed as part of team Cyberists with Shah Noor Mostafa Bhuiyan.
 
 ---
 
