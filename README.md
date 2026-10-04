@@ -21,21 +21,6 @@ stay invisible until they break. Outside the building I'm a penultimate-year
 
 ---
 
-### ▚ REFINEMENT QUEUE
-
-Work currently on the terminal:
-
-```
-+----------------------------------------------------------------------+
-|  Japan Secure Solutions ... junior developer                         |
-|  Home lab ................. self-hosted DNS / DHCP, Zigbee sensors   |
-|  Freelance ................ web design, spec to launch               |
-|  Algorithms ............... daily practice, C++ and Java             |
-+----------------------------------------------------------------------+
-```
-
----
-
 ### ▚ AUTHORIZED EQUIPMENT
 
 Issued to this workstation:
