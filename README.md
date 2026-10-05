@@ -87,7 +87,8 @@ Primary contributor (79 commits) on EarthSync — CircularCut. Led product desig
 |  LUMON INDUSTRIES / OUTIE ACTIVITY / INCIDENT 0x17                     |
 +------------------------------------------------------------------------+
 |  EVENT        Hack Mac 2026                                            |
-|  RESULT       7th overall (51 teams) · 3rd in Undergraduate category   |
+|  RESULT       6th in combined division · 3rd in Undergraduate category |
+|  AWARD        Named one of 12 winning teams (prize TBC)                |
 |  FUNCTION     CTF competition — Macquarie University Cyber Security Hub|
 +------------------------------------------------------------------------+
 ```
