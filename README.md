@@ -13,6 +13,8 @@
 
 ---
 
+### ▚ ORIENTATION
+
 My work is mysterious and important. In practice that means backend services in
 **Go**, self-hosted infrastructure, networking, and **Linux** — the parts that
 stay invisible until they break. Outside the building I'm a penultimate-year
