@@ -97,10 +97,18 @@ First CTF event. Competed as part of team Cyberists with Shah Noor Mostafa Bhuiy
 
 ---
 
-### ▚ SHOWCASES
+### ▚ EXTERNAL ENGAGEMENTS
 
-Presented RebootLoop at the (Tech)^US BIT Industry Showcase (invite-only, 19 teams) to industry professionals at Macquarie University.
-
+```
++------------------------------------------------------------------------+
+|  LUMON INDUSTRIES / OUTIE ACTIVITY / ENGAGEMENT 0x18                   |
++------------------------------------------------------------------------+
+|  EVENT        (Tech)^US BIT Industry Showcase, 8 Oct 2026              |
+|  VENUE        Macquarie University                                     |
+|  FUNCTION     Invite-only presentation to industry professionals       |
+|               (19 teams)                                               |
++------------------------------------------------------------------------+
+```
 
 ---
 
