@@ -97,6 +97,13 @@ First CTF event. Competed as part of team Cyberists with Shah Noor Mostafa Bhuiy
 
 ---
 
+### ▚ SHOWCASES
+
+Presented RebootLoop at the (Tech)^US BIT Industry Showcase (invite-only, 19 teams) to industry professionals at Macquarie University.
+
+
+---
+
 ### ▚ OUTIE CORRESPONDENCE
 
 The outie may be reached through approved channels:
